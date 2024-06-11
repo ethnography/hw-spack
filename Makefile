@@ -1,5 +1,5 @@
 all: HelloWorld.c
-	gcc -o hw HelloWorld.c
+	gcc -o helloworld HelloWorld.c
 
 clean:
 	rm -rf hw
